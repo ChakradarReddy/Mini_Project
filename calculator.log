@@ -1,0 +1,24 @@
+07/Apr/2022:21:25:01 560 [My_Main.java] [INFO] SciCal.My_Main [FACTORIAL] - 5
+07/Apr/2022:21:25:01 566 [My_Main.java] [INFO] SciCal.My_Main [RESULT - FACTORIAL] - 120.0
+07/Apr/2022:21:25:01 567 [My_Main.java] [INFO] SciCal.My_Main [LOG] - 245.256
+07/Apr/2022:21:25:01 568 [My_Main.java] [INFO] SciCal.My_Main [RESULT - LOG] - 5.502302562978017
+07/Apr/2022:21:25:01 569 [My_Main.java] [INFO] SciCal.My_Main [ROOT] - 16.0
+07/Apr/2022:21:25:01 569 [My_Main.java] [INFO] SciCal.My_Main [RESULT - ROOT] - 4.0
+07/Apr/2022:21:25:01 570 [My_Main.java] [INFO] SciCal.My_Main [LOG] - 145.256
+07/Apr/2022:21:25:01 571 [My_Main.java] [INFO] SciCal.My_Main [RESULT - LOG] - 4.978497702968366
+07/Apr/2022:21:25:01 571 [My_Main.java] [INFO] SciCal.My_Main [POWER] - 3.0, 2.0
+07/Apr/2022:21:25:01 572 [My_Main.java] [INFO] SciCal.My_Main [RESULT - POWER] - 9.0
+07/Apr/2022:21:25:01 572 [My_Main.java] [INFO] SciCal.My_Main [FACTORIAL] - 6
+07/Apr/2022:21:25:01 573 [My_Main.java] [INFO] SciCal.My_Main [RESULT - FACTORIAL] - 720.0
+07/Apr/2022:21:25:01 574 [My_Main.java] [INFO] SciCal.My_Main [POWER] - 2.0, 3.0
+07/Apr/2022:21:25:01 574 [My_Main.java] [INFO] SciCal.My_Main [RESULT - POWER] - 8.0
+07/Apr/2022:21:25:01 574 [My_Main.java] [INFO] SciCal.My_Main [ROOT] - 17.0
+07/Apr/2022:21:25:01 575 [My_Main.java] [INFO] SciCal.My_Main [RESULT - ROOT] - 4.123105625617661
+07/Apr/2022:21:30:58 254 [My_Main.java] [INFO] SciCal.My_Main [ROOT] - 25.0
+07/Apr/2022:21:30:58 260 [My_Main.java] [INFO] SciCal.My_Main [RESULT - ROOT] - 5.0
+07/Apr/2022:21:31:25 461 [My_Main.java] [INFO] SciCal.My_Main [FACTORIAL] - 5
+07/Apr/2022:21:31:25 469 [My_Main.java] [INFO] SciCal.My_Main [RESULT - FACTORIAL] - 120.0
+07/Apr/2022:21:31:46 403 [My_Main.java] [INFO] SciCal.My_Main [LOG] - 100.0
+07/Apr/2022:21:31:46 409 [My_Main.java] [INFO] SciCal.My_Main [RESULT - LOG] - 4.605170185988092
+07/Apr/2022:21:32:14 329 [My_Main.java] [INFO] SciCal.My_Main [POWER] - 2.0, 5.0
+07/Apr/2022:21:32:14 335 [My_Main.java] [INFO] SciCal.My_Main [RESULT - POWER] - 32.0
