@@ -1,4 +1,4 @@
-localhost ansible_user=chakradar
+localhost ansible_ssh_pass=chakri@123 ansible_user=chakradar
 
 [ubuntu20]
-172.16.144.254 ansible_user=suchit
+172.16.144.254 ansible_ssh_pass=suchith2000 ansible_user=suchit
