@@ -1,4 +1,4 @@
-localhost ansible_user=shubham
+localhost ansible_user=chakradar
 
 [ubuntu20]
 172.16.144.254 ansible_user=suchit
